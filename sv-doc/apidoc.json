@@ -1,0 +1,19 @@
+{
+  "name": "StavVApiDoc",
+  "version": "0.1.0",
+  "description": "这里是stav-v的api接口文档",
+  "title": "Stav-V",
+  "sampleUrl": "http://localhost:8080/?r=",
+  "header": {
+    "title": "文档介绍",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "版本说明",
+    "filename": "footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}

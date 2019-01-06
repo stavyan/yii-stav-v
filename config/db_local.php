@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;port=3306;dbname=stavv',
+    'dsn' => 'mysql:host=132.232.19.246;port=3308;dbname=stavv',
     'username' => 'root',
-    'password' => '123456',
+    'password' => 'qq617946852',
     'charset' => 'utf8',
     'tablePrefix' => 'sv_'
     // Schema cache options (for production environment)
